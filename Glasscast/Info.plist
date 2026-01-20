@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>OPENWEATHER_API_KEY</key>
+	<string>c0aa42aabd7bc9ee4dbc29a6519db1db</string>
+	<key>SUPABASE_ANON_KEY</key>
+	<string>eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJmeWV2b3hyYmFrb3FmZGJia3VoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Njg4MTQ0NzQsImV4cCI6MjA4NDM5MDQ3NH0.uA9qEJhYsK-w9eYdy5S8ugRohu8KP02ECoAXhQYddu8</string>
+	<key>SUPABASE_URL</key>
+	<string>https://rfyevoxrbakoqfdbbkuh.supabase.co</string>
+</dict>
+</plist>

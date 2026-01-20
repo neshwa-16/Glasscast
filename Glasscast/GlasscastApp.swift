@@ -9,9 +9,15 @@ import SwiftUI
 
 @main
 struct GlasscastApp: App {
+    @StateObject private var authState = AuthState()
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            if authState.isAuthenticated {
+                HomeView()
+            } else {
+                AuthView()
+            }
         }
     }
 }

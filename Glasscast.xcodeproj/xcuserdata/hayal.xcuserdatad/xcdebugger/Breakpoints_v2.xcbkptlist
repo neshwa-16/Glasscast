@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "31E13874-982B-4480-BA3C-52A7A12BBFE7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D686A47-6684-498F-9F20-8C27E0648BF7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glasscast/Services/DatabaseServiceProtocol.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "saveCity(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A3AFF91-8A61-4A42-AEF4-8F2E6DAD4E77"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glasscast/Services/DatabaseServiceProtocol.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "saveCity(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2A3AFF91-8A61-4A42-AEF4-8F2E6DAD4E77 - e97a0843a97d7a4e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Glasscast.DatabaseService.saveCity(Glasscast.CitySearchResult) async throws -&gt; ()"
+                  moduleName = "Glasscast.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hayal/Desktop/Nesh%20iOS/Glasscast/Glasscast/Services/DatabaseServiceProtocol.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78">
+               </Location>
+               <Location
+                  uuid = "2A3AFF91-8A61-4A42-AEF4-8F2E6DAD4E77 - cab06a7f5f9cc96a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) await resume partial function for Glasscast.DatabaseService.saveCity(Glasscast.CitySearchResult) async throws -&gt; ()"
+                  moduleName = "Glasscast.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hayal/Desktop/Nesh%20iOS/Glasscast/Glasscast/Services/DatabaseServiceProtocol.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78">
+               </Location>
+               <Location
+                  uuid = "2A3AFF91-8A61-4A42-AEF4-8F2E6DAD4E77 - 5a7cfeb84b1b8648"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for Glasscast.DatabaseService.saveCity(Glasscast.CitySearchResult) async throws -&gt; ()"
+                  moduleName = "Glasscast.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hayal/Desktop/Nesh%20iOS/Glasscast/Glasscast/Services/DatabaseServiceProtocol.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78">
+               </Location>
+               <Location
+                  uuid = "2A3AFF91-8A61-4A42-AEF4-8F2E6DAD4E77 - cb71a5151530c24a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for Glasscast.DatabaseService.saveCity(Glasscast.CitySearchResult) async throws -&gt; ()"
+                  moduleName = "Glasscast.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hayal/Desktop/Nesh%20iOS/Glasscast/Glasscast/Services/DatabaseServiceProtocol.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "715F03D0-C70D-49FC-ADC6-620356B48377"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glasscast/Views/DashboardView/DashboardView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B8A06108-CA66-4E0E-8F38-9AC714DECBDD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glasscast/Network/APIClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "requestData(from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B8A06108-CA66-4E0E-8F38-9AC714DECBDD - 494d9229f98e5010"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Glasscast.APIClient.requestData(from: Glasscast.Endpoint) async throws -&gt; Foundation.Data"
+                  moduleName = "Glasscast.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hayal/Desktop/Nesh%20iOS/Glasscast/Glasscast/Network/APIClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47">
+               </Location>
+               <Location
+                  uuid = "B8A06108-CA66-4E0E-8F38-9AC714DECBDD - da26f2b8f16b9eda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Glasscast.APIClient.requestData(from: Glasscast.Endpoint) async throws -&gt; Foundation.Data"
+                  moduleName = "Glasscast.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hayal/Desktop/Nesh%20iOS/Glasscast/Glasscast/Network/APIClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47">
+               </Location>
+               <Location
+                  uuid = "B8A06108-CA66-4E0E-8F38-9AC714DECBDD - c1a687bfeb02a41e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Glasscast.APIClient.requestData(from: Glasscast.Endpoint) async throws -&gt; Foundation.Data"
+                  moduleName = "Glasscast.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hayal/Desktop/Nesh%20iOS/Glasscast/Glasscast/Network/APIClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47">
+               </Location>
+               <Location
+                  uuid = "B8A06108-CA66-4E0E-8F38-9AC714DECBDD - 4143d49125c821b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Glasscast.APIClient.requestData(from: Glasscast.Endpoint) async throws -&gt; Foundation.Data"
+                  moduleName = "Glasscast.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hayal/Desktop/Nesh%20iOS/Glasscast/Glasscast/Network/APIClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "04FC8536-7FCC-4C31-B350-AE003FA8AB16"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glasscast/Services/WeatherServiceProtocol.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "fetchForecast(latitude:longitude:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "04FC8536-7FCC-4C31-B350-AE003FA8AB16 - 48b1de37ff560db3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Glasscast.WeatherService.fetchForecast(latitude: Swift.Double, longitude: Swift.Double) async throws -&gt; Glasscast.ForecastResponse"
+                  moduleName = "Glasscast.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hayal/Desktop/Nesh%20iOS/Glasscast/Glasscast/Services/WeatherServiceProtocol.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33">
+               </Location>
+               <Location
+                  uuid = "04FC8536-7FCC-4C31-B350-AE003FA8AB16 - f3c6688790043302"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Glasscast.WeatherService.fetchForecast(latitude: Swift.Double, longitude: Swift.Double) async throws -&gt; Glasscast.ForecastResponse"
+                  moduleName = "Glasscast.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hayal/Desktop/Nesh%20iOS/Glasscast/Glasscast/Services/WeatherServiceProtocol.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33">
+               </Location>
+               <Location
+                  uuid = "04FC8536-7FCC-4C31-B350-AE003FA8AB16 - 847b544bcab941b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Glasscast.WeatherService.fetchForecast(latitude: Swift.Double, longitude: Swift.Double) async throws -&gt; Glasscast.ForecastResponse"
+                  moduleName = "Glasscast.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hayal/Desktop/Nesh%20iOS/Glasscast/Glasscast/Services/WeatherServiceProtocol.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33">
+               </Location>
+               <Location
+                  uuid = "04FC8536-7FCC-4C31-B350-AE003FA8AB16 - 5e580881cf34e7ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Glasscast.WeatherService.fetchForecast(latitude: Swift.Double, longitude: Swift.Double) async throws -&gt; Glasscast.ForecastResponse"
+                  moduleName = "Glasscast.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hayal/Desktop/Nesh%20iOS/Glasscast/Glasscast/Services/WeatherServiceProtocol.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F0D57A4A-D58C-40D7-AC5B-C1B8DAA23179"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glasscast/ViewModels/DashboardViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "fetchWeather()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F0D57A4A-D58C-40D7-AC5B-C1B8DAA23179 - ec11048d107c81a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Glasscast.DashboardViewModel.fetchWeather() async -&gt; ()"
+                  moduleName = "Glasscast.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hayal/Desktop/Nesh%20iOS/Glasscast/Glasscast/ViewModels/DashboardViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64">
+               </Location>
+               <Location
+                  uuid = "F0D57A4A-D58C-40D7-AC5B-C1B8DAA23179 - f7a8072c48492f1b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Glasscast.DashboardViewModel.fetchWeather() async -&gt; ()"
+                  moduleName = "Glasscast.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hayal/Desktop/Nesh%20iOS/Glasscast/Glasscast/ViewModels/DashboardViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64">
+               </Location>
+               <Location
+                  uuid = "F0D57A4A-D58C-40D7-AC5B-C1B8DAA23179 - fc132ab1c2b0821c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for Glasscast.DashboardViewModel.fetchWeather() async -&gt; ()"
+                  moduleName = "Glasscast.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hayal/Desktop/Nesh%20iOS/Glasscast/Glasscast/ViewModels/DashboardViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64">
+               </Location>
+               <Location
+                  uuid = "F0D57A4A-D58C-40D7-AC5B-C1B8DAA23179 - e2fa501535fae11d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for Glasscast.DashboardViewModel.fetchWeather() async -&gt; ()"
+                  moduleName = "Glasscast.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hayal/Desktop/Nesh%20iOS/Glasscast/Glasscast/ViewModels/DashboardViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64">
+               </Location>
+               <Location
+                  uuid = "F0D57A4A-D58C-40D7-AC5B-C1B8DAA23179 - 5dee1ba312315fa6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(12) suspend resume partial function for Glasscast.DashboardViewModel.fetchWeather() async -&gt; ()"
+                  moduleName = "Glasscast.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hayal/Desktop/Nesh%20iOS/Glasscast/Glasscast/ViewModels/DashboardViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64">
+               </Location>
+               <Location
+                  uuid = "F0D57A4A-D58C-40D7-AC5B-C1B8DAA23179 - 4d79a91ddacb6dac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(15) suspend resume partial function for Glasscast.DashboardViewModel.fetchWeather() async -&gt; ()"
+                  moduleName = "Glasscast.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hayal/Desktop/Nesh%20iOS/Glasscast/Glasscast/ViewModels/DashboardViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64">
+               </Location>
+               <Location
+                  uuid = "F0D57A4A-D58C-40D7-AC5B-C1B8DAA23179 - e7faf34bc46427ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(16) suspend resume partial function for Glasscast.DashboardViewModel.fetchWeather() async -&gt; ()"
+                  moduleName = "Glasscast.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hayal/Desktop/Nesh%20iOS/Glasscast/Glasscast/ViewModels/DashboardViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64">
+               </Location>
+               <Location
+                  uuid = "F0D57A4A-D58C-40D7-AC5B-C1B8DAA23179 - 807c3ab1b111f850"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(17) suspend resume partial function for Glasscast.DashboardViewModel.fetchWeather() async -&gt; ()"
+                  moduleName = "Glasscast.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hayal/Desktop/Nesh%20iOS/Glasscast/Glasscast/ViewModels/DashboardViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64">
+               </Location>
+               <Location
+                  uuid = "F0D57A4A-D58C-40D7-AC5B-C1B8DAA23179 - 3eb28a6b8dc387a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(20) suspend resume partial function for Glasscast.DashboardViewModel.fetchWeather() async -&gt; ()"
+                  moduleName = "Glasscast.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hayal/Desktop/Nesh%20iOS/Glasscast/Glasscast/ViewModels/DashboardViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AD4307D5-BAC3-48E7-9F7A-880FAC5921D0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glasscast/ViewModels/DashboardViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "updateForecast(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AD4307D5-BAC3-48E7-9F7A-880FAC5921D0 - 458a73187443b407"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Glasscast.DashboardViewModel.updateForecast(Glasscast.ForecastResponse) -&gt; ()"
+                  moduleName = "Glasscast.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hayal/Desktop/Nesh%20iOS/Glasscast/Glasscast/ViewModels/DashboardViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115">
+               </Location>
+               <Location
+                  uuid = "AD4307D5-BAC3-48E7-9F7A-880FAC5921D0 - fc9be72184401079"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Glasscast.ForecastDay, Glasscast.ForecastDay) -&gt; Swift.Bool in Glasscast.DashboardViewModel.updateForecast(Glasscast.ForecastResponse) -&gt; ()"
+                  moduleName = "Glasscast.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hayal/Desktop/Nesh%20iOS/Glasscast/Glasscast/ViewModels/DashboardViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115">
+               </Location>
+               <Location
+                  uuid = "AD4307D5-BAC3-48E7-9F7A-880FAC5921D0 - e9158a65bebbfe85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (Glasscast.ForecastDay) -&gt; Glasscast.ForecastDay in Glasscast.DashboardViewModel.updateForecast(Glasscast.ForecastResponse) -&gt; ()"
+                  moduleName = "Glasscast.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hayal/Desktop/Nesh%20iOS/Glasscast/Glasscast/ViewModels/DashboardViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5E9AECE0-EBEE-48B8-9A45-33CB8E114267"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Glasscast/Services/WeatherServiceProtocol.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "fetchForecast(latitude:longitude:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
